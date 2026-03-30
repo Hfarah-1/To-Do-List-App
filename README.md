@@ -9,16 +9,16 @@ This app allows you to add tasks, mark them as completed (with strikethrough tex
 
 ---
 
-## ✨ Features
+## Features
 
 - ➕ Add new tasks  
-- ✅ Mark tasks as completed by tapping them  
-- ❌ Delete tasks by swiping left  
-- 🎨 Built with **SwiftUI** for a modern and responsive interface  
+- Mark tasks as completed by tapping them  
+- Delete tasks by swiping left  
+- Built with **SwiftUI** for a modern and responsive interface  
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
 <p align="center">
  <img width="200" height="995" alt="Screenshot 2025-09-08 at 3 23 05 PM" src="https://github.com/user-attachments/assets/cbda6847-8cf6-464d-a0bc-d0a395c9888c" />
@@ -29,14 +29,14 @@ This app allows you to add tasks, mark them as completed (with strikethrough tex
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Xcode 15+
 - Swift 5.9+
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Swift 5  
 - SwiftUI  
@@ -44,7 +44,7 @@ This app allows you to add tasks, mark them as completed (with strikethrough tex
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to run the project locally:
 
