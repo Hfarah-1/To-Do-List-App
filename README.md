@@ -1,4 +1,4 @@
-# 📋 To-Do List App
+# To-Do List App
 
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange?logo=swift&logoColor=white)
 ![Platform](https://img.shields.io/badge/platform-iOS-lightgrey)
