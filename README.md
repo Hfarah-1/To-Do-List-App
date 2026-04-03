@@ -48,7 +48,3 @@ This app allows you to add tasks, mark them as completed (with strikethrough tex
 
 Follow these steps to run the project locally:
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/Hfarah-1/To-Do-List-App.git
-   ```
